@@ -1,4 +1,4 @@
-RCH_ON# Import python packages
+# Import python packages
 import streamlit as st
 import requests
 import pandas as pd
